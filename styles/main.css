@@ -1,5 +1,9 @@
 @import "reset.css";
 @import "fonts.css";
+body {
+  max-width: 1440px;
+  margin: 0 auto;
+}
 header {
   width: 1440px;
   height: 700px;
